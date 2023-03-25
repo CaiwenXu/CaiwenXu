@@ -31,7 +31,7 @@ _**I am currently a research postgraduate student at Imperial, London, UK.**_
 - **[Co-Scale Conv-Attentional Image Transformers](https://arxiv.org/abs/2104.06399)** (2021)
 - **[CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention](https://arxiv.org/abs/2108.00154)** (2021)
 - **[Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)** (2021)
-- **[MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526)** (2022)M
+- **[MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526)** (2022)
 
 
 ### 3. Application in medicine
