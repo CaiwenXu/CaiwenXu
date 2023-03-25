@@ -2,8 +2,8 @@
 ## 😊**Related papers for my individual project 2023**
 ### 1. Diffusion models
 #### 1.1. Basics：
-- **[Blog about Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-- **[A general framework of current diffusion models](https://arxiv.org/pdf/2206.00364.pdf)
+- **[Blog about Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)**
+- **[A general framework of current diffusion models](https://arxiv.org/pdf/2206.00364.pdf)**(2022)
 - **[SCORE-BASED DIFFUSION MODELS IN FUNCTION SPACE](https://arxiv.org/pdf/2302.07400.pdf)** (2023)
 #### 1.2. Alternatives to isotropic Gaussian diffusion:
 - **[BLURRING DIFFUSION MODELS](https://arxiv.org/pdf/2209.05557.pdf)** (2022)
