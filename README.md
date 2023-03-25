@@ -4,6 +4,7 @@ _**I am currently a research postgraduate student at Imperial, London, UK.**_
 
 ## 😊**Related papers for my individual project 2023**
 Recommended by Dr. Hao Tang:
+```
 ### 1. Diffusion models
 #### 1.1. Basics：
 - **[Blog about Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)**
@@ -56,6 +57,7 @@ Recommended by Dr. Hao Tang:
 #### Clip models
 - **[Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/pdf/2302.03668.pdf)** (2023)
 
+```
 
 
 Recommended by Dr. Sheng Zhang:
