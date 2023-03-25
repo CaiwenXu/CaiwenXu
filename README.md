@@ -5,7 +5,7 @@ _**I am currently a research postgraduate student at Imperial, London, UK.**_
 ## 😊**Related papers for my individual project 2023**
 ### 😎**Recommended by Dr. Hao Tang:**
 
-3/25: - **[在有限的硬件资源上做大模型](https://huggingface.co/blog/peft)**
+3/25: - **[在有限的硬件资源上做大模型: PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)**
 
 ### 1. Diffusion models
 #### 1.1. Basics：
