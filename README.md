@@ -1,4 +1,7 @@
 # Caiwen Xu
+<!-- _**I am currently a research postgraduate student at Imperial, London.**_ -->
+_**I am currently a research postgraduate student at Imperial, London, UK.**_
+
 ## 😊**Related papers for my individual project 2023**
 ### 1. Diffusion models
 #### 1.1. Basics：
