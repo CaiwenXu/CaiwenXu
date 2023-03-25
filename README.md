@@ -3,6 +3,7 @@
 _**I am currently a research postgraduate student at Imperial, London, UK.**_
 
 ## 😊**Related papers for my individual project 2023**
+Recommended by Dr. Hao Tang:
 ### 1. Diffusion models
 #### 1.1. Basics：
 - **[Blog about Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)**
@@ -54,3 +55,11 @@ _**I am currently a research postgraduate student at Imperial, London, UK.**_
 ### 5. Others
 #### Clip models
 - **[Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/pdf/2302.03668.pdf)** (2023)
+
+
+
+Recommended by Dr. Sheng Zhang:
+- **[MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation](https://arxiv.org/abs/2303.09975)** (2023)
+- **[HybridMIM: A Hybrid Masked Image Modeling Framework for 3D Medical Image Segmentation](https://arxiv.org/abs/2303.10333)** (2023)
+- **[Knowledge Distillation Basics](https://blog.csdn.net/nature553863/article/details/80568658)** 
+- **[RestoreDet: Degradation Equivariant Representation for Object Detection in Low Resolution Images](https://arxiv.org/pdf/2201.02314.pdf)** (2023)
