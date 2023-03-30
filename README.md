@@ -63,6 +63,8 @@ _**I am currently a research postgraduate student at Imperial, London, UK.**_
 
 ### 🙂**Recommended by Dr. Sheng Zhang:**
 - **[MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation](https://arxiv.org/abs/2303.09975)** (2023)
+- **[A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)** (2023)
+- **[A Permutable Hybrid Network for Volumetric Medical Image Segmentation](https://arxiv.org/pdf/2303.13111.pdf)** (2023)
 - **[HybridMIM: A Hybrid Masked Image Modeling Framework for 3D Medical Image Segmentation](https://arxiv.org/abs/2303.10333)** (2023)
 - **[Knowledge Distillation Basics](https://blog.csdn.net/nature553863/article/details/80568658)** 
 - **[RestoreDet: Degradation Equivariant Representation for Object Detection in Low Resolution Images](https://arxiv.org/pdf/2201.02314.pdf)** (2023)
