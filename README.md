@@ -1,6 +1,6 @@
 ### Hi, I'm Caiwen 👋
 ### 🎓 I am actively seeking opportunities to pursue a PhD
-- :earth_americas: From [Anshan](https://en.wikipedia.org/wiki/Anshan), :China:
+- :earth_americas: From [Anshan](https://en.wikipedia.org/wiki/Anshan), China
 - Currently a research postgraduate at [Imperial](https://www.imperial.ac.uk/)
 - Check my [personal page](https://caiwenxu.github.io/)
 - 📫 How to reach me: c.xu22@imperial.ac.uk or caiwenxu.student@gmail.com
