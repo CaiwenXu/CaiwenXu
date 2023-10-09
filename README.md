@@ -3,7 +3,7 @@
 - Currently a research postgraduate at [Imperial](https://www.imperial.ac.uk/)
 - Check my [personal page](https://caiwenxu.github.io/)
 - 📫 How to reach me: c.xu22@imperial.ac.uk or caiwenxu.student@gmail.com
-- _**🎓 Actively seeking opportunities to pursue a PhD**_
+- _** ##🎓 Actively seeking opportunities to pursue a PhD**_
 
 <p>
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
