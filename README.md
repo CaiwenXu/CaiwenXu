@@ -2,14 +2,16 @@
 - :earth_americas: From [Anshan](https://en.wikipedia.org/wiki/Anshan), :China:
 - Currently a research postgraduate at [Imperial](https://www.imperial.ac.uk/)
 - Check my [personal page](https://caiwenxu.github.io/)
+- - 📫 How to reach me: c.xu22@imperial.ac.uk or caiwenxu.student@gmail.com
 - _**🎓 Actively seeking opportunities to pursue a PhD**_
 
 <p>
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792de4?style=flat-square&logo=lightning&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0073ec?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff" />
 </p>
 
 [![Caiwen's github stats](https://github-readme-stats.vercel.app/api?username=CaiwenXu&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
