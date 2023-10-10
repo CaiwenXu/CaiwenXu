@@ -21,10 +21,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CaiwenXu&theme=onedark&margin-w=15&margin-h=15&no-bg=true&rank=-C&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 <span>
-  <a href="https://br.linkedin.com/in/georgecdearaujo/en"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
+  <a href="https://br.linkedin.com/in/caiwen-xu-2733801b0"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
 </span>
 
-## 😊**Related papers for my individual project 2023**
+## 😊**Related reference papers for my individual project 2023**
 ### 😎**Recommended by Dr. Hao Tang:**
 
 3/25: - **[在有限的硬件资源上做大模型: PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)**
