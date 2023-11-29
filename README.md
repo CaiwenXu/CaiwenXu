@@ -31,12 +31,13 @@
 
 ### 1. Diffusion models
 29.11.2023 - 1 week plan 学习计划（intern）
-1. Blog about Diffusion models
-2. KL, ELBO详细推导[Variational Inference bilibili](https://www.bilibili.com/video/BV1BU4y1x7rH/?spm_id_from=333.788&vd_source=7762fba383763d0f5e0934a08c8bff8d)
-3. 视频资料[Hongyi Li courses](https://www.youtube.com/watch?v=ifCDXFdeaaM)
-4. 扩散模型(Diffusion Model)论文汇总[GitHub](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#11-Speed-up)
-5. 最新综述[A Survey on Generative Diffusion Models](https://arxiv.org/pdf/2209.02646.pdf)
-6. 简单的DM + registration 2 papers [FSDiffReg](https://arxiv.org/pdf/2307.12035.pdf) [DiffuseMorph](https://arxiv.org/pdf/2112.05149.pdf)
+1. Blog about Diffusion models （需要复习一些基础数学知识）
+2. 深入理解高斯分布[知乎文章](https://zhuanlan.zhihu.com/p/125619927)
+3. KL, ELBO详细推导[Variational Inference bilibili](https://www.bilibili.com/video/BV1BU4y1x7rH/?spm_id_from=333.788&vd_source=7762fba383763d0f5e0934a08c8bff8d)
+4. 视频资料[Hongyi Li courses](https://www.youtube.com/watch?v=ifCDXFdeaaM)
+5. 扩散模型(Diffusion Model)论文汇总[GitHub](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#11-Speed-up)
+6. 最新综述[A Survey on Generative Diffusion Models](https://arxiv.org/pdf/2209.02646.pdf)
+7. 简单的DM + registration 2 papers [FSDiffReg](https://arxiv.org/pdf/2307.12035.pdf) [DiffuseMorph](https://arxiv.org/pdf/2112.05149.pdf)
 - presentation 
 #### 1.1. Basics：
 - **[Blog about Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)**
