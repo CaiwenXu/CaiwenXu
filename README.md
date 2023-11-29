@@ -48,7 +48,13 @@
 - **[Universal Guidance for Diffusion Models](https://arxiv.org/pdf/2302.07121.pdf)** (2023)
 - **[MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](https://arxiv.org/pdf/2211.00611.pdf)** (2023)
 - **[Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models](https://arxiv.org/pdf/2211.10655.pdf)** (2022)
-
+#### 1.4. plan 29.11.2023 - 1 week plan 
+blog - basics
+[详细推导 Variational Inference bilibili](https://www.bilibili.com/video/BV1BU4y1x7rH/?spm_id_from=333.788&vd_source=7762fba383763d0f5e0934a08c8bff8d)
+[Hongyi Li courses](https://www.youtube.com/watch?v=ifCDXFdeaaM)
+- [扩散模型(Diffusion Model) GitHub论文汇总](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#11-Speed-up)
+- [A Survey on Generative Diffusion Models 最新综述](https://arxiv.org/pdf/2209.02646.pdf)
+- presentation 
 
 ### 2. Multi-scale Transformer
 - **[Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding](https://arxiv.org/abs/2103.15358)** (2021)
