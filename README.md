@@ -30,6 +30,14 @@
 3/25: - **[在有限的硬件资源上做大模型: PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)**
 
 ### 1. Diffusion models
+29.11.2023 - 1 week plan 学习计划（intern）
+1. Blog about Diffusion models
+2. KL, ELBO详细推导[Variational Inference bilibili](https://www.bilibili.com/video/BV1BU4y1x7rH/?spm_id_from=333.788&vd_source=7762fba383763d0f5e0934a08c8bff8d)
+3. 视频资料[Hongyi Li courses](https://www.youtube.com/watch?v=ifCDXFdeaaM)
+4. 扩散模型(Diffusion Model)论文汇总[GitHub](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#11-Speed-up)
+5. 最新综述[A Survey on Generative Diffusion Models](https://arxiv.org/pdf/2209.02646.pdf)
+6. 简单的DM + registration 2 papers [FSDiffReg](https://arxiv.org/pdf/2307.12035.pdf) [DiffuseMorph](https://arxiv.org/pdf/2112.05149.pdf)
+- presentation 
 #### 1.1. Basics：
 - **[Blog about Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)**
 - **[A general framework of current diffusion models](https://arxiv.org/pdf/2206.00364.pdf)**(2022)
@@ -48,13 +56,7 @@
 - **[Universal Guidance for Diffusion Models](https://arxiv.org/pdf/2302.07121.pdf)** (2023)
 - **[MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](https://arxiv.org/pdf/2211.00611.pdf)** (2023)
 - **[Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models](https://arxiv.org/pdf/2211.10655.pdf)** (2022)
-#### 1.4. plan 29.11.2023 - 1 week plan 
-blog - basics
-[详细推导 Variational Inference bilibili](https://www.bilibili.com/video/BV1BU4y1x7rH/?spm_id_from=333.788&vd_source=7762fba383763d0f5e0934a08c8bff8d)
-[Hongyi Li courses](https://www.youtube.com/watch?v=ifCDXFdeaaM)
-- [扩散模型(Diffusion Model) GitHub论文汇总](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#11-Speed-up)
-- [A Survey on Generative Diffusion Models 最新综述](https://arxiv.org/pdf/2209.02646.pdf)
-- presentation 
+  
 
 ### 2. Multi-scale Transformer
 - **[Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding](https://arxiv.org/abs/2103.15358)** (2021)
