@@ -34,7 +34,8 @@
 1. Blog about Diffusion models （需要复习一些基础数学知识）
 2. 深入理解高斯分布[知乎文章](https://zhuanlan.zhihu.com/p/125619927)
 3. KL, ELBO详细推导[Variational Inference bilibili](https://www.bilibili.com/video/BV1BU4y1x7rH/?spm_id_from=333.788&vd_source=7762fba383763d0f5e0934a08c8bff8d)
-4. 蒙特卡罗方法详解[知乎]（https://zhuanlan.zhihu.com/p/369099011）e.g., Box-Muller变换原理详解[CSDN] (https://blog.csdn.net/weixin_41793877/article/details/84700875?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-84700875-blog-118715198.235%5Ev39%5Epc_relevant_3m_sort_dl_base2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-84700875-blog-118715198.235%5Ev39%5Epc_relevant_3m_sort_dl_base2&utm_relevant_index=2)
+4. 蒙特卡罗方法详解[知乎]（https://zhuanlan.zhihu.com/p/369099011）
+   e.g., Box-Muller变换原理详解[CSDN] (https://blog.csdn.net/weixin_41793877/article/details/84700875?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-84700875-blog-118715198.235%5Ev39%5Epc_relevant_3m_sort_dl_base2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-84700875-blog-118715198.235%5Ev39%5Epc_relevant_3m_sort_dl_base2&utm_relevant_index=2)
 6. 视频资料[Hongyi Li courses](https://www.youtube.com/watch?v=ifCDXFdeaaM)
 7. 扩散模型(Diffusion Model)论文汇总[GitHub](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#11-Speed-up)
 8. 最新综述[A Survey on Generative Diffusion Models](https://arxiv.org/pdf/2209.02646.pdf)
